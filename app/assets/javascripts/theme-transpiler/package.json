@@ -10,7 +10,7 @@
     "test": "vitest"
   },
   "dependencies": {
-    "@babel/core": "^7.28.4",
+    "@babel/core": "^7.29.6",
     "@babel/preset-env": "^7.28.3",
     "@babel/standalone": "^7.28.4",
     "@csstools/postcss-light-dark-function": "^2.0.11",
@@ -33,7 +33,7 @@
     "memfs": "^4.39.0",
     "path-browserify": "^1.0.1",
     "polyfill-crypto.getrandomvalues": "^1.0.0",
-    "postcss": "^8.5.6",
+    "postcss": "^8.5.23",
     "postcss-js": "^5.0.1",
     "postcss-media-minmax": "^5.0.0",
     "postcss-nesting": "^13.0.2",
@@ -48,6 +48,6 @@
     "pnpm": "^9"
   },
   "devDependencies": {
-    "vitest": "^3.2.4"
+    "vitest": "^3.2.6"
   }
 }
