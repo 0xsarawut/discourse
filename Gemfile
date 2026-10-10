@@ -10,7 +10,7 @@ gem "bootsnap", require: false, platform: :mri
 
 gem "actionmailer", "~> 8.0.0"
 gem "actionpack", "~> 8.0.0"
-gem "actionview", "~> 8.0.0"
+gem "actionview", "~> 8.0.4"
 gem "activemodel", "~> 8.0.0"
 gem "activerecord", "~> 8.0.0"
 gem "activesupport", "~> 8.0.0"
